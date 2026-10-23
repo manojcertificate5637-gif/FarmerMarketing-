@@ -1,0 +1,8 @@
+{
+  "name": "Prototype Inspector & Analyzer",
+  "description": "Interactive prototype runner, UI/UX architectural audit, design system inspection, and AI-powered prototype analysis tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
